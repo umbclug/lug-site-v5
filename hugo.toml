@@ -4,3 +4,33 @@ title = 'UMBC Linux Users Group'
 theme = "hextra"
 enableGitInfo = true
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Discord"
+    url = "https://discord.gg/YOUR_DISCORD_INVITE"
+    weight = 3
+
+  [[menu.main]]
+    name = "Wiki"
+    url = "https://wiki.lug.umbc.edu/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Mirror"
+    url = "https://mirror.lug.umbc.edu/"
+    weight = 5
+
+[params]
+  description = "The UMBC Linux Users Group: events, resources, and community for Linux enthusiasts."
+  # Add more theme-specific params as needed
+
