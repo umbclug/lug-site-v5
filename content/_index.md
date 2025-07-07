@@ -10,7 +10,7 @@ We are a community of Linux and open-source enthusiasts at UMBC. Whether you're 
 
 ## Recent Posts
 
-{{< recent-posts limit="5" >}}
+<!-- {{< recent-posts limit="5" >}} -->
 
 ## What We Offer
 
