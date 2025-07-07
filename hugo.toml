@@ -17,7 +17,7 @@ enableGitInfo = true
 
   [[menu.main]]
     name = "Discord"
-    url = "https://discord.gg/YOUR_DISCORD_INVITE"
+    url = "https://discord.com/invite/jgMqPtK2mg"
     weight = 3
 
   [[menu.main]]
