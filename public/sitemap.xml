@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://lug.umbc.edu/about/</loc>
+    <lastmod>2025-07-07T01:22:14-04:00</lastmod>
+  </url><url>
+    <loc>https://lug.umbc.edu/</loc>
+    <lastmod>2025-07-07T01:22:14-04:00</lastmod>
+  </url><url>
+    <loc>https://lug.umbc.edu/categories/</loc>
+  </url><url>
+    <loc>https://lug.umbc.edu/tags/</loc>
+  </url>
+</urlset>

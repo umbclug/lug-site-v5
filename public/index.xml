@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UMBC Linux Users Group – UMBC Linux Users Group</title>
+    <link>https://lug.umbc.edu/</link>
+    <description>Recent content on UMBC Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jul 2025 01:22:14 -0400</lastBuildDate>
+    
+	  <atom:link href="https://lug.umbc.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+  </channel>
+</rss>

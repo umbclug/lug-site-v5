@@ -1,0 +1,6 @@
+baseURL = 'https://lug.umbc.edu/'
+languageCode = 'en-us'
+title = 'UMBC Linux Users Group'
+theme = "hextra"
+enableGitInfo = true
+

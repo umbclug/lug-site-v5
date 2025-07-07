@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UMBC Linux Users Group – Tags</title>
+    <link>https://lug.umbc.edu/tags/</link>
+    <description>Recent content in Tags on UMBC Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="https://lug.umbc.edu/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
