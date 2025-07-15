@@ -35,7 +35,7 @@ enableGitInfo = true
     url = "https://mirror.lug.umbc.edu/"
     weight = 6
 
-  [menu.main]
+  [[menu.main]]
     name = "myUMBC"
     url = "https://my3.my.umbc.edu/groups/lug"
     weight = 7
