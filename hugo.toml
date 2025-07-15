@@ -16,19 +16,29 @@ enableGitInfo = true
     weight = 2
 
   [[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 3
+
+  [[menu.main]]
     name = "Discord"
     url = "https://discord.com/invite/jgMqPtK2mg"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Wiki"
     url = "https://wiki.lug.umbc.edu/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Mirror"
     url = "https://mirror.lug.umbc.edu/"
-    weight = 5
+    weight = 6
+
+  [menu.main]
+    name = "myUMBC"
+    url = "https://my3.my.umbc.edu/groups/lug"
+    weight = 7
 
 [params]
   description = "The UMBC Linux Users Group: events, resources, and community for Linux enthusiasts."
