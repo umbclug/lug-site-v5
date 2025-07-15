@@ -1,14 +1,16 @@
 # About
 
-UMBC Linux Users Group (LUG) is a student-run organization at the University of Maryland, Baltimore County. Our mission is to foster a welcoming community for anyone interested in Linux, Free Software, and alternative operating systems. We aim to provide a space for learning, collaboration, and sharing knowledge among students, faculty, and staff.
+**Note:** Club meetings are not held over the summer. Information about meetings for the Fall 2025 semester will be posted here as soon as it becomes available.
 
-We run weekly meetings that cover a wide range of topics, including hands-on workshops, technical presentations, and open discussions. Whether you're a complete beginner or a seasoned Linux user, you'll find something valuable at our meetings.
+UMBC Linux Users Group (LUG) is a student-run organization at the University of Maryland, Baltimore County. Our mission is to foster a welcoming community for anyone interested in Linux and (Free and Open Source Software) FOSS. We aim to provide a space for learning, collaboration, and sharing knowledge among students, faculty, and staff.
+
+We run weekly meetings during the semesters that cover a wide range of topics, including hands-on workshops, technical presentations, and open discussions. Whether you're a complete beginner or a seasoned Linux user, you'll find something valuable at our meetings.
 
 We always welcome new presenters, contact us if there is something you would to talk about!
 
 ## What We Do
 
-- Weekly meetings on Linux, Free Software, and alternative OS topics
+- Weekly meetings on Linux, FOSS, and other technical topics
 - Technical presentations
 - Community support and mentorship
 - Special events, collaborations, and social gatherings
