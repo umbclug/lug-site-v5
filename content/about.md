@@ -56,4 +56,4 @@ UMBC's Linux Users Group was founded in October 1997 by Morty Abzug. Since then,
 | Apr 2024 - Dec 2024       | Sean Jilek                 | Kira Singla           | Michael Mayhugh   |
 | Dec 2024 - Apr 2025       | Alex Merryman              | Kira Singla           | Michael Mayhugh   |
 
-<!-- Add more history, stories, or notable achievements below as you see fit. -->
+<!-- Add more history, stories, or notable achievements below as you see fit. Testing push -->
