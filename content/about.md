@@ -52,8 +52,8 @@ UMBC's Linux Users Group was founded in October 1997 by Morty Abzug. Since then,
 | Apr 2016 - Apr 2017       | Chris Angel                | Nick Stommel          | Chris Boia        |
 | Apr 2017 - Apr 2022       | ?                          | ?                     | ?                 |
 | Apr 2022 - Apr 2023       | Zach Amoss                 | Alex Taylor           | Warren Funk       |
-| Apr 2023 - Apr 2024       | Sean Jilek                 | Zach Amoss            | Warren Funk       |
-| Apr 2024 - Dec 2024       | Sean Jilek                 | Kira Singla           | Michael Mayhugh   |
+| Apr 2023 - Apr 2024       | Sean Stultz                | Zach Amoss            | Warren Funk       |
+| Apr 2024 - Dec 2024       | Sean Stultz                | Kira Singla           | Michael Mayhugh   |
 | Dec 2024 - Apr 2025       | Alex Merryman              | Kira Singla           | Michael Mayhugh   |
 
 <!-- Add more history, stories, or notable achievements below as you see fit. Testing push -->
