@@ -9,8 +9,6 @@ Installfest is our outreach event where we introduce Linux to new users. We show
 **Time:** 12:00–2:00 PM  
 **Location:** Commons Mainstreet
 
----
-
 ## LAN Night
 
 LAN Night is a new event focused on local multiplayer gaming natively on Linux. We promote Linux gaming and demonstrate tools like Proton, Wine, and Lutris. We'll set up a simple LAN for everyone to connect and play together. The event is open to all students and alumni.
@@ -20,7 +18,6 @@ LAN Night is a new event focused on local multiplayer gaming natively on Linux. 
 **Time:** 7:15 PM  
 **Location:** PUP 208
 
----
 
 ## Bin/Bash Day
 
@@ -30,7 +27,6 @@ Each October, club members and alumni meet at Sorentos of Arbutus to celebrate t
 **Date:** October 2025  
 **Location:** Sorentos of Arbutus
 
----
 
 ## Swap Meet
 
