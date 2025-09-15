@@ -39,7 +39,12 @@ enableGitInfo = true
     name = "myUMBC"
     url = "https://my3.my.umbc.edu/groups/lug"
     weight = 7
-
+    
+  [[menu.main]]
+    name = "InstallFest"
+    url = "/installfest/"
+    weight = 8
+    
 [params]
   description = "The UMBC Linux Users Group: events, resources, and community for Linux enthusiasts."
   # Add more theme-specific params as needed
