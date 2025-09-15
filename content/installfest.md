@@ -48,7 +48,10 @@ This USB is powered by [Ventoy](https://www.ventoy.net/), which lets you choose 
 
 ## Installing Linux Permanently
 If you like what you see, you can install Linux on your computer.  
-⚠️ **Warning:** Installing may erase your current system. Backup important files first!  
+
+{{< callout type="warning" >}}
+  **Warning:** Installing may erase your current system. Backup important files first! 
+{{< /callout >}}
 
 ### Backup Recommendations
 - External hard drive / USB stick  
