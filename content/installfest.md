@@ -50,7 +50,7 @@ This USB is powered by [Ventoy](https://www.ventoy.net/), which lets you choose 
 If you like what you see, you can install Linux on your computer.  
 
 {{< callout type="warning" >}}
-  **Warning:** Installing may erase your current system. Backup important files first! 
+  **Warning:** Installing WILL erase your current system. Backup important files first! 
 {{< /callout >}}
 
 ### Backup Recommendations
@@ -59,8 +59,11 @@ If you like what you see, you can install Linux on your computer.
 - Another PC
 
 ### Dual-Boot (For more advanced users)
-- Resources for mint
-- Shrinking partition
+If you want to install Linux alongside an existing Windows installation here are the steps to do so:
+{{< callout type="warning" >}}
+  **Warning:** Even though you are installing Linux alongside your existing Windows install, doing so likely requires you to shrink existing partitions, although uncommon, doing so always carries the risk of data loss. It is best practice to backup your data.
+{{< /callout >}}
+- Shrinking part
 - etc
 
 
