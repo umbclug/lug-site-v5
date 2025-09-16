@@ -16,18 +16,22 @@ Linux is a free and open-source operating system. It’s secure, customizable, a
 ## About Your USB Drive
 This USB is powered by [Ventoy](https://www.ventoy.net/), which lets you choose from multiple operating systems when you boot:
 
-- **Fedora KDE Plasma (Live)** – modern, polished desktop.  
-- **Linux Mint Cinnamon (Live)** – beginner-friendly and familiar.  
-- **Debian (Net Install)** – advanced users who want control.  
-- **Tails (Live)** – privacy-focused system.  
+- **Fedora KDE Plasma (Live)** – modern, polished desktop. 
+  ![](https://www.fedoraproject.org/_nuxt/background_plasma.XBHSz62f.png) 
+- **Linux Mint Cinnamon** – beginner-friendly and familiar.  
+  ![](https://linuxmint.com/web/img/screenshots/c1.jpg)
+- **Debian (Net Install)** – advanced users who want control. 
+  ![](https://screenshots.debian.net/screenshot/gnome/25135) 
+- **Tails (Live)** – privacy-focused system. 
+  ![](https://upload.wikimedia.org/wikipedia/commons/9/9a/Tails_screenshot_6.x.png) 
 
 ### Interested in trying another version (distro) of Linux?
 - Choose a distro that you are interested in trying: https://distrowatch.com/dwres.php?resource=popularity
 - Find and download an iso file
-- Insert the USB drive.
+- Insert the USB drive to your machine.
 - You will see two partitions, find the one with the iso files and a capacity of ~7.5gb
 - The current drive is at capacity so delete some of the other distros. (Mint and Fedora take up the most space)
-- Copy your downloaded iso to the root directory of the USB drive.
+- Copy your downloaded iso to the root directory of the USB drive where the iso files you deleted were
 
 
 ## How to Boot from USB
@@ -41,6 +45,8 @@ This USB is powered by [Ventoy](https://www.ventoy.net/), which lets you choose 
 
 
 ## Ways to Try Linux
+Want to try linux without fully installing?
+
 - **Live USB** – Boot temporarily without touching your hard drive.  
 - **Virtual Machine** – Run Linux inside Windows/macOS with software like VirtualBox.  
 - **Windows Subsystem for Linux (WSL)** – For Windows 10/11 users who want Linux tools without replacing their OS.  
@@ -69,9 +75,9 @@ If you want to install Linux alongside an existing Windows installation here are
 
 ## Recommended Guides
 - [Linux Mint Installation Guide](https://linuxmint-installation-guide.readthedocs.io/)  
-- [Fedora Quick Docs](https://docs.fedoraproject.org/en-US/quick-docs/)  
+- [Fedora Install Guide](https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/)  
 - [Debian Installation Guide](https://www.debian.org/releases/stable/amd64/)  
-- [Tails Documentation](https://tails.net/doc/)  
+- [Tails Install Guide](https://tails.net/install/linux/index.en.html)  
 - [Ventoy User Guide](https://www.ventoy.net/en/doc_start.html)  
 
 
