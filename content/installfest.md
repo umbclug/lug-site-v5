@@ -18,7 +18,7 @@ This USB is powered by [Ventoy](https://www.ventoy.net/), which lets you choose 
 
 - **Fedora KDE Plasma (Live)** – modern, polished desktop. 
   ![](https://www.fedoraproject.org/_nuxt/background_plasma.XBHSz62f.png) 
-- **Linux Mint Cinnamon** – beginner-friendly and familiar.  
+- **Linux Mint Cinnamon (Live)** – beginner-friendly and familiar.  
   ![](https://linuxmint.com/web/img/screenshots/c1.jpg)
 - **Debian (Net Install)** – advanced users who want control. 
   ![](https://screenshots.debian.net/screenshot/gnome/25135) 
@@ -65,12 +65,21 @@ If you like what you see, you can install Linux on your computer.
 - Another PC
 
 ### Dual-Boot (For more advanced users)
-If you want to install Linux alongside an existing Windows installation here are the steps to do so:
+If you want to install Linux alongside an existing Windows installation here are the steps to do so. We suggest that if you are doing a fresh install to install Windows first anyways becuase windows overwrites the existing boot manager during installation.
+
 {{< callout type="warning" >}}
-  **Warning:** Even though you are installing Linux alongside your existing Windows install, doing so likely requires you to shrink existing partitions, although uncommon, doing so always carries the risk of data loss. It is best practice to backup your data.
+  **Warning:** Even though you are installing Linux alongside your existing Windows install, doing so requires you to shrink existing partitions, although uncommon, doing so always carries the risk of data loss. It is best practice to backup your data.
 {{< /callout >}}
-- Shrinking part
-- etc
+
+- The Linux Mint installer allows for an easy Duel-Boot setup
+- Select Mint from the ventoy boot menu after booting to the USB drive described in the steps before.
+- During the installer once you get to the "Installation Type" menu be sure to select `Install Linux Mint alongside Windows Boot Manager`
+- At this stage you can now choose how much space will be allocated to either your Windows & Linux partitions. Make sure to leave room to grow with both operating systems.
+- By default your windows partition takes up most of your drive, this step is shrinking it to make space for mint to be installed.
+- Once you are ready proceed with the installation.
+- Now when your machine boots up, you will have the option to choose between Mint and Windows within the GRUB boot manager.
+
+* Note that you can install other Distros this way, the methodology may not be as intuitive, don't hesitate to find a guide or ask for help.
 
 
 ## Recommended Guides
