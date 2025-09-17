@@ -1,96 +1,110 @@
-# InstallFest 2025 – Linux Resources
+# InstallFest 2025: Get Started with Linux
 
-Welcome! You’re probably here because you received a Linux USB drive from LUG.  
+Welcome to InstallFest! We're glad you're here. This guide will walk you through the basics of Linux and how to get the most out of the USB drive you received from the UMBC Linux Users Group (LUG).
 
-## What is Linux?
-Linux is a free and open-source operating system. It’s secure, customizable, and used by everyone from casual users to Google, NASA, and UMBC servers.
+## What Is Linux?
 
+**Linux** is a free and open-source operating system. It's known for being secure, highly customizable, and is used everywhere—from personal computers and web servers to supercomputers.
 
-## Why Use Linux?
-- **Privacy:** Try Tails OS for secure, no-trace browsing.  
-- **Revive Old Hardware:** Linux runs well on computers that can’t handle newer Windows.  
-- **Windows 10 End of Life (October 14, 2025):** Linux keeps your device supported.  
-- **Flexibility:** Customize appearance, software, and desktop environment.  
+### Why Choose Linux?
 
-
-## About Your USB Drive
-This USB is powered by [Ventoy](https://www.ventoy.net/), which lets you choose from multiple operating systems when you boot:
-
-- **Fedora KDE Plasma (Live)** – modern, polished desktop. 
-  ![](https://www.fedoraproject.org/_nuxt/background_plasma.XBHSz62f.png) 
-- **Linux Mint Cinnamon (Live)** – beginner-friendly and familiar.  
-  ![](https://linuxmint.com/web/img/screenshots/c1.jpg)
-- **Debian (Net Install)** – advanced users who want control. 
-  ![](https://screenshots.debian.net/screenshot/gnome/25135) 
-- **Tails (Live)** – privacy-focused system. 
-  ![](https://upload.wikimedia.org/wikipedia/commons/9/9a/Tails_screenshot_6.x.png) 
-
-### Interested in trying another version (distro) of Linux?
-- Choose a distro that you are interested in trying: https://distrowatch.com/dwres.php?resource=popularity
-- Find and download an iso file
-- Insert the USB drive to your machine.
-- You will see two partitions, find the one with the iso files and a capacity of ~7.5gb
-- The current drive is at capacity so delete some of the other distros. (Mint and Fedora take up the most space)
-- Copy your downloaded iso to the root directory of the USB drive where the iso files you deleted were
+* **Privacy:** Use it to protect your data and stay anonymous online. Try **Tails OS** for secure, no-trace browsing.
+* **Revive Old Hardware:** Linux runs efficiently on older computers that struggle with newer versions of Windows.
+* **Stay Supported:** With Windows 10 reaching its end of life on October 14, 2025, Linux is a great way to keep your device secure and up to date.
+* **Flexibility:** Customize everything from the look and feel to the software and entire desktop environment.
 
 
-## How to Boot from USB
-1. Insert the USB drive.  
-2. Restart your computer.  
-3. Enter the **boot menu** (usually by pressing `F12`, `Esc`, or `Del` at startup).  
-4. Select the USB drive.  
-5. Choose a system to try.  
+## Your USB Drive: Powered by Ventoy
 
-*(Tip: If Secure Boot blocks you, look in your BIOS/UEFI settings to disable it.)*
+Your USB drive is loaded with **Ventoy**, a tool that lets you choose which operating system to boot into. Think of it as a multi-OS drive.
+
+Here are the systems currently on your drive:
+
+* **Fedora KDE Plasma (Live):** A modern, polished desktop experience.
+    ![](https://www.fedoraproject.org/_nuxt/background_plasma.XBHSz62f.png)
+* **Linux Mint Cinnamon (Live):** A popular choice for beginners, with a familiar, user-friendly interface.
+    ![](https://linuxmint.com/web/img/screenshots/c1.jpg)
+* **Debian (Net Install):** A powerful, minimal option for advanced users who want full control over their installation.
+    ![](https://screenshots.debian.net/screenshot/gnome/25135)
+* **Tails (Live):** A privacy-focused system designed to help you browse the web anonymously.
+    ![](https://upload.wikimedia.org/wikipedia/commons/9/9a/Tails_screenshot_6.x.png)
+
+### Want to Try Another Linux Distro?
+
+You can add other Linux "distros" (versions) to your drive.
+
+1.  Find a distro you like on [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) and download its ISO file.
+2.  Insert the USB drive into your computer.
+3.  Find the USB partition that contains the ISO files. It will be about 7.5GB in size.
+4.  The drive is at capacity, so you'll need to delete an existing distro (Mint and Fedora take up the most space) to make room.
+5.  Copy your new ISO file to the same location.
+
+## How to Boot from the USB Drive
+
+1.  **Insert** the USB drive.
+2.  **Restart** your computer.
+3.  As your computer starts, press the **boot menu** key (often `F12`, `Esc`, or `Del`).
+4.  Select your USB drive from the menu.
+5.  Choose a system from the Ventoy menu to try it out.
+
+***Tip:*** If you have trouble, you may need to disable **Secure Boot** in your computer's BIOS/UEFI settings.
 
 
-## Ways to Try Linux
-Want to try linux without fully installing?
+## Ways to Try Linux Without Installing It
 
-- **Live USB** – Boot temporarily without touching your hard drive.  
-- **Virtual Machine** – Run Linux inside Windows/macOS with software like VirtualBox.  
-- **Windows Subsystem for Linux (WSL)** – For Windows 10/11 users who want Linux tools without replacing their OS.  
+You don't have to install Linux to use it. Here are a few ways to get started:
+
+* **Live USB:** Boot from the USB drive to try Linux temporarily without making any changes to your computer's hard drive.
+* **Virtual Machine:** Run Linux as a program inside Windows or macOS using software like VirtualBox.
+* **Windows Subsystem for Linux (WSL):** A tool for Windows 10/11 that lets you use Linux command-line tools without replacing your operating system.
 
 
 ## Installing Linux Permanently
-If you like what you see, you can install Linux on your computer.  
+
+If you love what you see, you can install Linux on your computer.
 
 {{< callout type="warning" >}}
-  **Warning:** Installing WILL erase your current system. Backup important files first! 
+  **This will erase your current system!**
+  Be sure to back up all your important files before you proceed.
 {{< /callout >}}
 
 ### Backup Recommendations
-- External hard drive / USB stick  
-- Cloud storage (Google Drive, Dropbox, etc.)  
-- Another PC
 
-### Dual-Boot (For more advanced users)
-If you want to install Linux alongside an existing Windows installation here are the steps to do so. We suggest that if you are doing a fresh install to install Windows first anyways becuase windows overwrites the existing boot manager during installation.
+* **External hard drive or USB stick**
+* **Cloud storage** (Google Drive, Dropbox, etc.)
+* **Another computer**
+
+### Dual-Booting (Advanced)
+
+If you want to install Linux alongside your existing Windows system, you can set up a **dual-boot**. This is a more advanced process, but it allows you to choose between Windows and Linux every time you start your computer.
 
 {{< callout type="warning" >}}
-  **Warning:** Even though you are installing Linux alongside your existing Windows install, doing so requires you to shrink existing partitions, although uncommon, doing so always carries the risk of data loss. It is best practice to backup your data.
+  **Risk of Data Loss**
+  Dual-booting requires you to resize existing partitions. While uncommon, this always carries a risk of data loss. Back up your data first!
 {{< /callout >}}
 
-- The Linux Mint installer allows for an easy Duel-Boot setup
-- Select Mint from the ventoy boot menu after booting to the USB drive described in the steps before.
-- During the installer once you get to the "Installation Type" menu be sure to select `Install Linux Mint alongside Windows Boot Manager`
-- At this stage you can now choose how much space will be allocated to either your Windows & Linux partitions. Make sure to leave room to grow with both operating systems.
-- By default your windows partition takes up most of your drive, this step is shrinking it to make space for mint to be installed.
-- Once you are ready proceed with the installation.
-- Now when your machine boots up, you will have the option to choose between Mint and Windows within the GRUB boot manager.
+The **Linux Mint** installer makes this process straightforward:
 
-* Note that you can install other Distros this way, the methodology may not be as intuitive, don't hesitate to find a guide or ask for help.
+1.  Boot to the Linux Mint system on your USB drive.
+2.  During the installation, when you reach the "Installation Type" screen, select **`Install Linux Mint alongside Windows Boot Manager`**.
+3.  You can then use the slider to choose how much space to allocate to each operating system. Make sure to leave enough room for both to grow.
+4.  Once the installation is complete, you'll see a menu (called GRUB) every time you start your computer, giving you the option to boot into either Linux Mint or Windows.
+
+*Note: While other distros can be dual-booted, the process may not be as intuitive. Don't hesitate to find a guide or ask for help!*
 
 
 ## Recommended Guides
-- [Linux Mint Installation Guide](https://linuxmint-installation-guide.readthedocs.io/)  
-- [Fedora Install Guide](https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/)  
-- [Debian Installation Guide](https://www.debian.org/releases/stable/amd64/)  
-- [Tails Install Guide](https://tails.net/install/linux/index.en.html)  
-- [Ventoy User Guide](https://www.ventoy.net/en/doc_start.html)  
+
+* [**Linux Mint** Installation Guide](https://linuxmint-installation-guide.readthedocs.io/)
+* [**Fedora** Install Guide](https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/)
+* [**Debian** Installation Guide](https://www.debian.org/releases/stable/amd64/)
+* [**Tails** Install Guide](https://tails.net/install/linux/index.en.html)
+* [**Ventoy** User Guide](https://www.ventoy.net/en/doc_start.html)
 
 
 ## Need Help?
-Join UMBC Linux Users Group (LUG):  
-- Weekly Meetings: Wednesdays @ 7:15PM
-- Join the [Discord](https://discord.com/invite/jgMqPtK2mg)
+
+Join the **UMBC Linux Users Group (LUG)**!
+
+* **Weekly Meetings:** Wednesdays at 7:15 PM
+* **Join our Discord:** [https://discord.com/invite/jgMqPtK2mg](https://discord.com/invite/jgMqPtK2mg)
