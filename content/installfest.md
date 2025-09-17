@@ -2,6 +2,10 @@
 
 Welcome to InstallFest! We're glad you're here. This guide will walk you through the basics of Linux and how to get the most out of the USB drive you received from the UMBC Linux Users Group (LUG).
 
+## Disclaimer
+
+The UMBC Linux Users Group (LUG) and all affiliated individuals and organizations, including the University of Maryland, Baltimore County (UMBC), will not be held liable for any damage to hardware or loss of data that may occur on your system. Participants acknowledge that installing Linux carries a small, inherent risk, and by proceeding, you are accepting full responsibility for your own system. We strongly recommend that you back up all important files before the installfest.
+
 ## What Is Linux?
 
 **Linux** is a free and open-source operating system. It's known for being secure, highly customizable, and is used everywhere—from personal computers and web servers to supercomputers.
@@ -79,7 +83,7 @@ If you love what you see, you can install Linux on your computer.
 If you want to install Linux alongside your existing Windows system, you can set up a **dual-boot**. This is a more advanced process, but it allows you to choose between Windows and Linux every time you start your computer.
 
 {{< callout type="warning" >}}
-  **Risk of Data Loss**
+  **Risk of Data Loss.**
   Dual-booting requires you to resize existing partitions. While uncommon, this always carries a risk of data loss. Back up your data first!
 {{< /callout >}}
 
@@ -108,3 +112,4 @@ Join the **UMBC Linux Users Group (LUG)**!
 
 * **Weekly Meetings:** Wednesdays at 7:15 PM
 * **Join our Discord:** [https://discord.com/invite/jgMqPtK2mg](https://discord.com/invite/jgMqPtK2mg)
+
