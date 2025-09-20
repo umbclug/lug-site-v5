@@ -22,9 +22,9 @@ LAN Night is a new event focused on local multiplayer gaming natively on Linux. 
 Each October, club members and alumni meet at Sorentos of Arbutus to celebrate the club's founding in 1997.
 
 **Next Bin/Bash Day:**  
-**Date:** October 5th 2025
-**Time:** 1:00 PM
-**Location:** Sorentos of Arbutus
+**Date:** October 5th 2025  
+**Time:** 1:00 PM  
+**Location:** Sorentos of Arbutus  
 
 
 ## Swap Meet
