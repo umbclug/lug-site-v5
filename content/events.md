@@ -5,9 +5,7 @@
 Installfest is our outreach event where we introduce Linux to new users. We showcase different Linux distributions on several laptops and explain the basics of Linux and how to get involved with the club. Historically, we've helped attendees install Linux on their own devices during the event. For Fall 2025, we'll be giving out USB drives with Linux distributions pre-installed, so prospective users can install Linux themselves. Interested students are invited to our meeting later that night.
 
 **Next Installfest:**  
-**Date:** 9/17/2025  
-**Time:** 12:00–2:00 PM  
-**Location:** Commons Mainstreet
+**Date:** Fall 2026 
 
 ## LAN Night
 
@@ -24,7 +22,8 @@ LAN Night is a new event focused on local multiplayer gaming natively on Linux. 
 Each October, club members and alumni meet at Sorentos of Arbutus to celebrate the club's founding in 1997.
 
 **Next Bin/Bash Day:**  
-**Date:** October 2025  
+**Date:** October 5th 2025
+**Time:** 1:00 PM
 **Location:** Sorentos of Arbutus
 
 
