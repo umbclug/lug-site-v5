@@ -1,10 +1,14 @@
 # Events
 
-## Installfest
+## InstallFest
 
-Installfest is our outreach event where we introduce Linux to new users. We showcase different Linux distributions on several laptops and explain the basics of Linux and how to get involved with the club. Historically, we've helped attendees install Linux on their own devices during the event. For Fall 2025, we'll be giving out USB drives with Linux distributions pre-installed, so prospective users can install Linux themselves. Interested students are invited to our meeting later that night.
+InstallFest is our yearly outreach event in which we setup in the commons to spread the word about Linux and FOSS, providing people with resources, advice, and USB drives to start their Linux journey with. 
 
-**Next Installfest:**  
+Find more resources from InstallFest 2025 [here](https://lug.umbc.edu/installfest/)
+
+![InstallFest 2025](InstallFest.jpg)
+
+**Next InstallFest:**  
 **Date:** Fall 2026 
 
 ## LAN Night
@@ -19,12 +23,12 @@ LAN Night is a new event focused on local multiplayer gaming natively on Linux. 
 
 ## Bin/Bash Day
 
-Each October, club members and alumni meet at Sorentos of Arbutus to celebrate the club's founding in 1997.
+Each October, club members and alumni meet at Sorento's of Arbutus to celebrate the club's founding in 1997.
 
 **Next Bin/Bash Day:**  
 **Date:** October 5th 2025  
 **Time:** 1:00 PM  
-**Location:** Sorentos of Arbutus  
+**Location:** Sorento's of Arbutus  
 
 
 ## Swap Meet
