@@ -26,8 +26,8 @@ enableGitInfo = true
     weight = 4
 
   [[menu.main]]
-    name = "Wiki"
-    url = "https://wiki.lug.umbc.edu/"
+    name = "Monitoring"
+    url = "https://uptime.blahaj.uno/status/lug"
     weight = 5
 
   [[menu.main]]
