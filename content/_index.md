@@ -5,7 +5,6 @@ We are a community of Linux and open-source enthusiasts at UMBC. Whether you're 
 ## Join Us
 
 - [Join our Discord](https://discord.com/invite/jgMqPtK2mg)
-- [Visit our Wiki](https://wiki.lug.umbc.edu/)
 - [Check out our Mirror](https://mirror.lug.umbc.edu/)
 
 ## Recent Posts
