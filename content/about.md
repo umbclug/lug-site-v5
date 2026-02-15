@@ -14,7 +14,7 @@ We always welcome new presenters, contact us if there is something you would to 
 - Technical presentations
 - Community support and mentorship
 - Special events, collaborations, and social gatherings
-- Maintaining resources like our [Wiki](https://wiki.lug.umbc.edu/) and [Mirror](https://mirror.lug.umbc.edu/)
+- Maintaining resources like our [Mirror](https://mirror.lug.umbc.edu/)
 
 ## Officers
 
