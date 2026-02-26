@@ -20,8 +20,8 @@ We always welcome new presenters, contact us if there is something you would to 
 
 - **President:** [Alex Merryman](mailto:amerrym1@umbc.edu)
 - **Vice President:** [Danielle Esposito](mailto:desposi1@umbc.edu)
-- **Treasurer:** [Wiliam Capitos](mailto:wcapito1@umbc.edu)
-- **Secratary:** [Milk Patel](mailto:mpatel32@umbc.edu)
+- **Treasurer:** [William Capitos](mailto:wcapito1@umbc.edu)
+- **Secretary:** [Milk Patel](mailto:mpatel32@umbc.edu)
 - **Advisor:** [Dr. Maya Larson](mailto:mlarson1@umbc.edu)
 
 The best way to reach out to us is by emailing [lug@umbc.edu](mailto:lug@umbc.edu).  
