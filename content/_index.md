@@ -12,7 +12,7 @@ We are a community of Linux and open-source enthusiasts at UMBC. Whether you're 
 
 ## What We Offer
 
-- Weekly meetings
+- Weekly meetings (Wednesdays at 7:15 PM in Sherman 103 as of SP2026)
 - Presentations and archives
 - Friendly support
 

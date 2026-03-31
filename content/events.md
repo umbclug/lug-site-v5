@@ -2,7 +2,7 @@
 
 ## Swap Meet
 
-In Spring 2025, we collaborated with SAD club to host a swap meet. Attendees brought devices to sell or trade, giving members a chance to exchange hardware.
+In Spring 2025, we collaborated with SAD club to host a swap meet. Attendees brought devices to sell or trade, giving members a chance to exchange hardware. We're bringing it back this semester! Join us to find a new home for your technology, or even get something new to you to start a homelab or revive on old device with linux.
 
 **Next Swap Meet:**  
 **Date:** April 4th 2026  
