@@ -29,6 +29,8 @@ We currently maintain synced mirrors of the following Linux distributions, with 
 | **Manjaro**       | Full repository                 |
 | **EndeavourOS**   | Full repository                 |
 | **Puppy Linux**   | Full distribution archive       |
+| **EasyOS**        | Full distribution archive       |
+| **Fatdog**        | Full distribution archive       |
 | **Kali Linux**    | *In Progress*                   |
 | **Alpine**        | *In Progress*                   |
 
