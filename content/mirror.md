@@ -26,7 +26,7 @@ We currently maintain synced mirrors of the following Linux distributions, with 
 | **Debian**        | Full repository                 |
 | **Ubuntu**        | Packages & Release ISO images   |
 | **Linux Mint**    | Packages & ISO images           |
-| **Manjaro**       | Full repository                 |
+| **Manjaro**       | *In Progress*                   |
 | **EndeavourOS**   | Full repository                 |
 | **Puppy Linux**   | Full distribution archive       |
 | **EasyOS**        | Full distribution archive       |
