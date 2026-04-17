@@ -4,6 +4,18 @@ title = 'UMBC Linux Users Group'
 theme = "hextra"
 enableGitInfo = true
 
+# Enable RSS outputs
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+# RSS settings
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  baseName = "feed"
+
 [menu]
   [[menu.main]]
     name = "Home"
@@ -19,6 +31,11 @@ enableGitInfo = true
     name = "Events"
     url = "/events/"
     weight = 3
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 3.5
 
   [[menu.main]]
     name = "Discord"
