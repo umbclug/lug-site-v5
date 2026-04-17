@@ -36,7 +36,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
     weight = 3
 
   [[menu.main]]
-    name = "Blog"
+    name = "Posts"
     url = "/blog/"
     weight = 3.5
 
