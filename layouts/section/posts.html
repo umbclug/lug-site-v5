@@ -1,54 +1,56 @@
 {{ define "main" }}
-  <article class="prose dark:prose-invert max-w-4xl mx-auto py-6">
-    {{ .Content }}
+  <div class="container max-w-3xl mx-auto px-4 py-12">
+    <article class="prose dark:prose-invert max-w-none mb-12">
+      {{ .Content }}
+    </article>
+
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
     
-    <div class="mt-8">
-      <h2 class="text-2xl font-bold mb-6">Latest Posts</h2>
-      {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
-      
-      {{ if eq (len $paginator.Pages) 0 }}
-        <p class="text-gray-600 dark:text-gray-400">No posts yet. Check back soon!</p>
-      {{ else }}
-        <div class="space-y-8">
-          {{ range $paginator.Pages }}
-            <article class="border-b pb-6 last:border-b-0">
-              <h3 class="text-xl font-semibold mb-2">
-                <a href="{{ .Permalink }}" class="hover:text-blue-600 dark:hover:text-blue-400">
-                  {{ .Title }}
-                </a>
-              </h3>
-              {{ if .Params.description }}
-                <p class="text-gray-700 dark:text-gray-300 mb-3">{{ .Params.description }}</p>
-              {{ else }}
-                <p class="text-gray-700 dark:text-gray-300 mb-3">{{ .Summary }}</p>
-              {{ end }}
-              <div class="flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400">
-                <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-                  {{ .Date.Format "January 2, 2006" }}
-                </time>
-                {{ if .Params.categories }}
-                  <div class="flex gap-2">
-                    {{ range .Params.categories }}
-                      <span class="px-2 py-1 bg-gray-200 dark:bg-gray-700 rounded text-xs">{{ . }}</span>
-                    {{ end }}
-                  </div>
+    {{ if eq (len $paginator.Pages) 0 }}
+      <p class="text-gray-600 dark:text-gray-400 text-center py-8">No posts yet. Check back soon!</p>
+    {{ else }}
+      <div class="space-y-6">
+        {{ range $paginator.Pages }}
+          <div class="border-l-4 border-blue-500 pl-6 py-4">
+            <h3 class="text-xl font-bold mb-2">
+              <a href="{{ .Permalink }}" class="text-gray-900 dark:text-white hover:text-blue-600 dark:hover:text-blue-400">
+                {{ .Title }}
+              </a>
+            </h3>
+            
+            <div class="flex flex-wrap items-center gap-3 mb-3 text-sm text-gray-600 dark:text-gray-400">
+              <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                {{ .Date.Format "Jan 2, 2006" }}
+              </time>
+              
+              {{ if .Params.categories }}
+                {{ range .Params.categories }}
+                  <span class="px-2 py-1 bg-blue-100 dark:bg-blue-900 text-blue-900 dark:text-blue-100 rounded text-xs font-medium">
+                    {{ . }}
+                  </span>
                 {{ end }}
-              </div>
-            </article>
-          {{ end }}
-        </div>
-        
-        {{ if gt $paginator.TotalPages 1 }}
-          <nav class="mt-8 flex gap-4 justify-center">
-            {{ if $paginator.HasPrev }}
-              <a href="{{ $paginator.Prev.URL }}" class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">← Previous</a>
+              {{ end }}
+            </div>
+            
+            {{ if .Params.description }}
+              <p class="text-gray-700 dark:text-gray-300 line-clamp-2">{{ .Params.description }}</p>
+            {{ else }}
+              <p class="text-gray-700 dark:text-gray-300 line-clamp-2">{{ .Summary }}</p>
             {{ end }}
-            {{ if $paginator.HasNext }}
-              <a href="{{ $paginator.Next.URL }}" class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Next →</a>
-            {{ end }}
-          </nav>
+          </div>
         {{ end }}
+      </div>
+      
+      {{ if gt $paginator.TotalPages 1 }}
+        <nav class="mt-12 flex gap-4 justify-center">
+          {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}" class="px-4 py-2 rounded border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 transition">← Previous</a>
+          {{ end }}
+          {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}" class="px-4 py-2 rounded border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 transition">Next →</a>
+          {{ end }}
+        </nav>
       {{ end }}
-    </div>
-  </article>
+    {{ end }}
+  </div>
 {{ end }}
