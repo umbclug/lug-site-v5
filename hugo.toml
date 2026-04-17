@@ -4,6 +4,9 @@ title = 'UMBC Linux Users Group'
 theme = "hextra"
 enableGitInfo = true
 
+# Suppress raw HTML warning for badges
+ignoreLogs = ['warning-goldmark-raw-html']
+
 # Enable RSS outputs
 [outputs]
   home = ["HTML", "RSS"]
