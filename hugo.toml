@@ -63,6 +63,19 @@ ignoreLogs = ['warning-goldmark-raw-html']
     name = "More"
     weight = 8
     identifier = "more"
+
+  [[menu.main]]
+    name = "Search"
+    weight = 4
+    [menu.main.params]
+      type = "search"
+
+  [[menu.main]]
+    name = "GitHub"
+    weight = 5
+    url = "https://github.com/umbclug/lug-site-v5"
+    [menu.main.params]
+      icon = "github"
     
     
 [params]
