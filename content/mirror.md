@@ -57,7 +57,7 @@ Our mirror service is powered by enterprise-grade hardware:
 **Network:** 5 Gigabit uplink  
 **Location:** UMBC Departmental Computer Room
 
-![UMBC LUG Server Rack - August 2025](Rack-2026-03.jpg)
+![UMBC LUG Server Rack - August 2025](/images/Rack-2026-03.jpg)
 
 ## History
 

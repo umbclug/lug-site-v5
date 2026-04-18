@@ -21,9 +21,9 @@ Learn about everyone's favorite containerization platform, Docker! Learn about c
 
 InstallFest is our yearly outreach event in which we setup in the commons to spread the word about Linux and FOSS, providing people with resources, advice, and USB drives to start their Linux journey with. 
 
-Find more resources from InstallFest 2025 [here](https://lug.umbc.edu/installfest/)
+Find more resources from InstallFest 2025 [here](/installfest/)
 
-![InstallFest 2025](InstallFest.jpg)
+![InstallFest 2025](/images/InstallFest.jpg)
 
 **Next InstallFest:**  
 **Date:** Fall 2026 
@@ -32,7 +32,7 @@ Find more resources from InstallFest 2025 [here](https://lug.umbc.edu/installfes
 
 LAN Night is a new event focused on local multiplayer gaming natively on Linux. We promote Linux gaming and demonstrate tools like Proton, Wine, and Lutris. We'll set up a simple LAN for everyone to connect and play together. The event is open to all students and alumni.
 
-![Lan Night 2025](LanNight25.jpg)
+![Lan Night 2025](/images/LanNight25.jpg)
 
 **Next LAN Night:**  
 **Date:** Fall 2026  

@@ -20,10 +20,6 @@ ignoreLogs = ['warning-goldmark-raw-html']
   baseName = "feed"
 
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
 
   [[menu.main]]
     name = "About"
@@ -43,12 +39,14 @@ ignoreLogs = ['warning-goldmark-raw-html']
   [[menu.main]]
     name = "Discord"
     url = "https://discord.com/invite/jgMqPtK2mg"
-    weight = 4
+    weight = 1
+    parent = "more"
 
   [[menu.main]]
     name = "Monitoring"
     url = "https://uptime.blahaj.uno/status/lug"
-    weight = 5
+    weight = 2
+    parent = "more"
 
   [[menu.main]]
     name = "Mirror"
@@ -58,12 +56,14 @@ ignoreLogs = ['warning-goldmark-raw-html']
   [[menu.main]]
     name = "myUMBC"
     url = "https://my3.my.umbc.edu/groups/lug"
-    weight = 7
-    
+    weight = 3
+    parent = "more"
+
   [[menu.main]]
-    name = "InstallFest"
-    url = "/installfest/"
+    name = "More"
     weight = 8
+    identifier = "more"
+    
     
 [params]
   description = "The UMBC Linux Users Group: events, resources, and community for Linux enthusiasts."
