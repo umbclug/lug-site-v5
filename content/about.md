@@ -48,7 +48,10 @@ UMBC's Linux Users Group was founded in October 1997 by Morty Abzug. Since then,
 | May 2014 - ~Apr 2015      | Dylan Whichard             | Alexander (Sasha) Bauer | Mark Murnane    |
 | Apr 2015 - Apr 2016       | Alexander (Sasha) Bauer    | Dylan Whichard        | Mark Murnane      |
 | Apr 2016 - Apr 2017       | Chris Angel                | Nick Stommel          | Chris Boia        |
-| Apr 2017 - Apr 2022       | ?                          | ?                     | ?                 |
+| Apr 2017 - Apr 2019       | ?                          | ?                     | ?                 |
+| Apr 2019 - Apr 2020       | Pat G                      | Edwin Trejo           | Chris ?           |
+| Apr 2020 - May 2021       | Edwin Trejo                | ?                     | ?                 |
+| May 2021 - Apr 2022       | Campbell Jones             | Alex Taylor           | ?                 |
 | Apr 2022 - Apr 2023       | Zach Amoss                 | Alex Taylor           | Warren Funk       |
 | Apr 2023 - Apr 2024       | Sean Stultz                | Zach Amoss            | Warren Funk       |
 | Apr 2024 - Dec 2024       | Sean Stultz                | Kira Singla           | Michael Mayhugh   |
