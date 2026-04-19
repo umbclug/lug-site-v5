@@ -1,0 +1,78 @@
+baseURL: "https://lug.umbc.edu/"
+languageCode: "en-us"
+title: "UMBC Linux Users Group"
+theme: "hextra"
+enableGitInfo: true
+
+ignoreLogs:
+  - "warning-goldmark-raw-html"
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+  section:
+    - "HTML"
+    - "RSS"
+  taxonomy:
+    - "HTML"
+  term:
+    - "HTML"
+
+outputFormats:
+  RSS:
+    mediaType: "application/rss+xml"
+    baseName: "feed"
+
+menu:
+  main:
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Events"
+      url: "/events/"
+      weight: 3
+    - name: "Posts"
+      url: "/blog/"
+      weight: 3.5
+    - name: "Discord"
+      url: "https://discord.com/invite/jgMqPtK2mg"
+      weight: 1
+      parent: "more"
+    - name: "Monitoring"
+      url: "https://uptime.blahaj.uno/status/lug"
+      weight: 2
+      parent: "more"
+    - name: "Mirror"
+      url: "/mirror/"
+      weight: 6
+    - name: "myUMBC"
+      url: "https://my3.my.umbc.edu/groups/lug"
+      weight: 3
+      parent: "more"
+    - name: "More"
+      weight: 8
+      identifier: "more"
+    - name: "Search"
+      weight: 10
+      params:
+        type: "search"
+    - name: "GitHub"
+      weight: 12
+      url: "https://github.com/umbclug/lug-site-v5"
+      params:
+        icon: "github"
+
+params:
+  description: "The UMBC Linux Users Group: events, resources, and community for Linux enthusiasts."
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: /favicon.svg
+      link: /
+  blog:
+    list:
+      displayTags: true
+    toc:
+      displayTags: true
