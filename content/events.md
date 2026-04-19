@@ -2,12 +2,12 @@
 
 ## Swap Meet
 
-In Spring 2025, we collaborated with SAD club to host a swap meet. Attendees brought devices to sell or trade, giving members a chance to exchange hardware. We're bringing it back this semester! Join us to find a new home for your technology, or even get something new to you to start a homelab or revive on old device with linux.
+Starting in Spring 2025, we have begun an annual collaboration with one of our fellow student orgs the [System Administration and Software Development Club (SAD)](https://discord.gg/8TbQFaUpPf) to host a SWAP meet. This event provides an opportunity for students and alumni to; buy, sell, trade, and give away tech! It has turned into a great way for students to start their Linux or home-lab journey.
+
+![Swap Meet 2026](/images/swapmeet2026.jpeg)
 
 **Next Swap Meet:**  
-**Date:** April 4th 2026  
-**Time:** 5:00 PM  
-**Location:** Room TBD  
+**Date:** Spring 2027
 
 ## Docker 101
 
