@@ -8,8 +8,6 @@ authors:
 tags:
   - Announcement
 ---
-:warning: Important Club Announcement :warning: 
-
 Due to recent infrastructure instability and after careful review, the UMBC Linux Users Group will be undergoing an immediate rebrand and systems overhaul.
 
 Effective immediately, we are now the:
