@@ -19,6 +19,8 @@ This website is meant to be primarily updated and maintained by officers and sys
 - Sorting blog posts by tag; (e.g. Presentation, Announcement.. etc)
 - Fix the favicon
 - Add a license to the git repo
+- Custom CSS for proper theming
+- Improve landing page
 
 ## Stack
 
