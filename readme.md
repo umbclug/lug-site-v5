@@ -2,7 +2,7 @@
 Welcome to the current iteration of our website!
 
 ## Contributing
-This website is to be primarily updated and maintained by officers and system administrators. That said community contributions are more than welcome. Here's what you need to know.
+This website is meant to be primarily updated and maintained by officers and system administrators. That said, community contributions are more than welcome. Here's what you need to know.
 
 ### Directories
 - **/content** - Where all the markdown files live. This is where the page content is written.
@@ -14,11 +14,12 @@ This website is to be primarily updated and maintained by officers and system ad
 - Setup an RSS feed
 - Sorting blog posts by tag; (e.g. Presentation, Announcement.. etc)
 - Fix the favicon
+- Add a license to the git repo
 
 ## Stack
 We are currently using Hugo as a static site generator. At its core this takes a bunch of markdown files and it turns it into a presentable website.
 
-- **Webserver** - Nginx
+- **Webserver:** Nginx
 - **SSG:** [Hugo](https://github.com/gohugoio/hugo)
 - **Theme:** [Hextra](https://github.com/imfing/hextra)
 
