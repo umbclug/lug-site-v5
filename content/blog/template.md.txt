@@ -1,0 +1,16 @@
+---
+title: "PRESENTATION TITLE"
+date: YYYY-MM-DD
+authors:
+  - name: PRESENTER NAME
+    link: https://github.com/GITHUB-USER
+    image: https://github.com/GITHUB-USER.png
+tags:
+  - Meeting
+  - Presentation
+---
+
+Meeting information
+
+See the Presentation here:
+{{< pdf "/presentations/PRESENTATION.pdf" >}}
