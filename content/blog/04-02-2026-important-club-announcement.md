@@ -35,6 +35,7 @@ Attendance is mandatory*
 **mandatory in spirit*
 
 Glory to the kernel. Stability through unity.
---
-*Supreme Leader Alex Merryman*
-*General Secretary of the Workers' Party of RSUG*
+
+--  
+*Supreme Leader Alex Merryman*  
+*General Secretary of the Workers' Party of RSUG*  

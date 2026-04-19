@@ -14,6 +14,7 @@ tags:
 Elections will be held during our normal meeting time on **April 29th** (2 weeks from now). As per our constitution every position can be ran for.  An interest form will be sent out next week. I'd also encourage talking with myself or another board member to indicate interest or if you have any questions.
 
 The positions that can be ran for:
+
 - President
 - Vice President
 - Treasurer
