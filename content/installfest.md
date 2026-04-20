@@ -1,5 +1,5 @@
 ---
-title: InstallFest 2025: Get started with Linux
+title: InstallFest 2025 Get started with Linux
 ---
 
 Welcome to InstallFest! We're glad you're here. This guide will walk you through the basics of Linux and how to get the most out of the USB drive you received from the UMBC Linux Users Group (LUG).
