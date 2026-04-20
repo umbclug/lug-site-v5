@@ -67,10 +67,11 @@ menu:
 params:
   description: "The UMBC Linux Users Group: events, resources, and community for Linux enthusiasts."
   navbar:
-    displayTitle: true
+    displayTitle: false
     displayLogo: true
     logo:
-      path: /favicon.svg
+      path: /LUG@UMBC-Light.png
+      dark: /LUG@UMBC-Dark.png
       link: /
   blog:
     list:
