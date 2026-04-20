@@ -22,10 +22,3 @@ Whether you are new to Linux or already running your own servers, our club is a 
   {{< card link="/blog/" title="See the latest club updates" >}}
   {{< card link="/mirror/" title="Read about our mirror project" >}}
 {{< /cards >}}
-
-## Join the community
-
-1. Jump into Discord and say hello.
-2. Attend a meeting or event.
-3. Ask for help with Linux installs, servers, or tools.
-4. Share a talk idea or volunteer for a workshop.
