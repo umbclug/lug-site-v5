@@ -14,7 +14,7 @@ The mirror runs on robust server hardware generously donated by members of our c
 - **HTTP:** [http://mirror.lug.umbc.edu](https://mirror.lug.umbc.edu)
 - **RSYNC:** rsync://mirror.lug.umbc.edu
 
-Uptime information can be found at https://uptime.blahaj.uno/status/lug 
+Uptime information can be found at https://uptime.blahaj.uno/status/lug
 
 ## Supported Distributions
 
@@ -103,4 +103,3 @@ Our mirror service is powered by enterprise-grade hardware:
 - Maya Larson | Advisor
 
 This project wouldn't exist without the generous donations of hardware and time from our community members.
-
