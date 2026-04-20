@@ -2,8 +2,6 @@
 title: "UMBC Linux Users Group"
 toc: false
 ---
-# UMBC Linux Users Group
-
 A friendly, student-led community where anyone interested in Linux, open-source software, or technical projects can learn, share, and collaborate.
 
 Whether you are new to Linux or already running your own servers, our club is a place to grow your skills and meet fellow enthusiasts.
