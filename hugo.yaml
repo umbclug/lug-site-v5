@@ -35,10 +35,6 @@ menu:
     - name: "Posts"
       url: "/blog/"
       weight: 3.5
-    - name: "Discord"
-      url: "https://discord.com/invite/jgMqPtK2mg"
-      weight: 1
-      parent: "more"
     - name: "Monitoring"
       url: "https://uptime.blahaj.uno/status/lug"
       weight: 2
@@ -57,6 +53,11 @@ menu:
       weight: 10
       params:
         type: "search"
+    - name: "Discord"
+      url: "https://sh.lug.umbc.edu/discord/"
+      weight: 11
+      params:
+        icon: "discord"
     - name: "GitHub"
       weight: 12
       url: "https://github.com/umbclug/lug-site-v5"
@@ -76,3 +77,7 @@ params:
       displayTags: true
     toc:
       displayTags: true
+  banner:
+    key: 'mirror-announcement'
+    message: |
+      Our package mirror is live! [Check it out](https://mirror.lug.umbc.edu)
