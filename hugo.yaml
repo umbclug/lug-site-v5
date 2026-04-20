@@ -73,6 +73,8 @@ params:
       path: /LUG@UMBC-Light.png
       dark: /LUG@UMBC-Dark.png
       link: /
+      height: 40
+      width: 160
   blog:
     list:
       displayTags: true
