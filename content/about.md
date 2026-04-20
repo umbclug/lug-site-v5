@@ -1,4 +1,6 @@
-# About
+---
+title: About
+---
 
 UMBC Linux Users Group (LUG) is a student-run organization at the University of Maryland, Baltimore County. Our mission is to foster a welcoming community for anyone interested in Linux and (Free and Open Source Software) FOSS. We aim to provide a space for learning, collaboration, and sharing knowledge among students, faculty, and staff.
 
