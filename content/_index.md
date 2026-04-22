@@ -16,9 +16,9 @@ Whether you are new to Linux or already running your own servers, our club is a 
 
 {{< cards >}}
   {{< card link="https://sh.lug.umbc.edu/discord" title="Join our Discord" icon="discord" >}}
-  {{< card link="https://mirror.lug.umbc.edu" title="Visit the mirror" >}}
-  {{< card link="/about/" title="Read about the club" >}}
-  {{< card link="/events/" title="Learn about our events" >}}
-  {{< card link="/blog/" title="See the latest club updates" >}}
-  {{< card link="/mirror/" title="Read about our mirror project" >}}
+  {{< card link="https://mirror.lug.umbc.edu" title="Visit the mirror" icon="download" >}}
+  {{< card link="/about/" title="Read about the club" icon="book-open" >}}
+  {{< card link="/events/" title="Learn about our events" icon="calendar" >}}
+  {{< card link="/blog/" title="See the latest club updates" icon="bell" >}}
+  {{< card link="/mirror/" title="Read about our mirror project" icon="book-open" >}}
 {{< /cards >}}
