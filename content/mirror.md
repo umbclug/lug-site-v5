@@ -1,7 +1,6 @@
 ---
 title: Mirror
 ---
-
 ## About
 
 The UMBC Linux Users Group operates a high-performance public mirror service dedicated to supporting the broader free and open-source software community. Our mirror provides fast, reliable access to popular Linux distributions and packages hosted within UMBC's datacenter.

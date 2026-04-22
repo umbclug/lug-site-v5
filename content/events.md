@@ -1,7 +1,6 @@
 ---
 title: "Events"
 ---
-
 ## Swap Meet
 
 Starting in Spring 2025, we have begun an annual collaboration with one of our fellow student orgs the [System Administration and Software Development Club (SAD)](https://discord.gg/8TbQFaUpPf) to host a SWAP meet. This event provides an opportunity for students and alumni to; buy, sell, trade, and give away tech! It has turned into a great way for students to start their Linux or home-lab journey.
