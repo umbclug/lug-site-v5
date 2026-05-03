@@ -21,13 +21,14 @@ The positions that can be ran for:
 - Secretary
 
 Incumbent board members will be running for all positions but Treasurer.
+
 ## Mirror
 
-I realized I've never really made an official announcement about the mirror apart from discussion at meetings.
+I realized I've never really made an official announcement about the mirror apart from discussion at meetings.  
 I'm excited to report lots of progress!
 
-We are mirroring two new distros; EasyOS and Fatdog64 Linux (Puppy Linux Derivatives) thanks to [@danielle-esposito](https://github.com/danielle-esposito)
-In fact we are an official mirror for EasyOS: https://bkhome.org/news/202604/umbcedu-mirror-added-to-pkgget-and-sfsget.html 
+We are mirroring two new distros; EasyOS and Fatdog64 Linux (Puppy Linux Derivatives) thanks to [@danielle-esposito](https://github.com/danielle-esposito)  
+In fact we are an official mirror for EasyOS: https://bkhome.org/news/202604/umbcedu-mirror-added-to-pkgget-and-sfsget.html  
 As it stands, we are in the process of registering as official mirrors for all of the other projects that we mirror
 
 We also have a new index page built by [@scoreoutofbounds](https://github.com/hnasheralneam) - https://mirror.lug.umbc.edu/

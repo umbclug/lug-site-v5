@@ -19,7 +19,7 @@ We always welcome new presenters, contact us if there is something you would to 
 
 - **President:** [Alex Merryman](mailto:amerrym1@umbc.edu)
 - **Vice President:** [Danielle Esposito](mailto:desposi1@umbc.edu)
-- **Treasurer:** [William Capitos](mailto:wcapito1@umbc.edu)
+- **Treasurer:** [Hamza Asher Alneam](mailto:hnasher1@umbc.edu)
 - **Secretary:** [Milk Patel](mailto:mpatel32@umbc.edu)
 - **Advisor:** [Dr. Maya Larson](mailto:mlarson1@umbc.edu)
 
@@ -57,5 +57,6 @@ UMBC's Linux Users Group was founded in October 1997 by Morty Abzug. Since then,
 | Apr 2023 - Apr 2024       | Sean Stultz                | Zach Amoss            | Warren Funk       |
 | Apr 2024 - Dec 2024       | Sean Stultz                | Kira Singla           | Michael Mayhugh   |
 | Dec 2024 - Apr 2025       | Alex Merryman              | Kira Singla           | Michael Mayhugh   |
+| Apr 2025 - May 2026       | Alex Merryman              | Danielle Esposito     | William Capitos   |
 
 <!-- Add more history, stories, or notable achievements below as you see fit. Testing push -->
