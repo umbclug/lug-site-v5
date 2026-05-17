@@ -88,7 +88,7 @@ Our mirror service is powered by enterprise-grade hardware:
 - Ryan Cather
 
 **System Administration Team**
-- Hamza Asher Alneam
+- Hamza Nasher-Alneam
 - Heath Long
 - Isaac De Silva
 
