@@ -8,7 +8,7 @@ A friendly, student-led community where anyone interested in Linux, open-source 
 Whether you are new to Linux or already running your own servers, our club is a place to grow your skills and meet fellow enthusiasts.
 
 {{< callout type="info" >}}
-**Meetings:** Wednesdays at 7:15 PM in Sherman 103 (Spring 2026)  
+**Meetings:** On break for the summer, check back in the Fall.
 **Open to:** UMBC students, faculty, staff, alumni, and allies of the community.
 {{< /callout >}}
 
