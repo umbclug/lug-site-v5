@@ -83,4 +83,4 @@ params:
   banner:
     key: 'mirror-announcement'
     message: |
-      Our package mirror is live! [Check it out](https://mirror.lug.umbc.edu)
+      Scheduled maintenance: Our website and mirror will be offline on Friday, June 24th from 5:00 PM to 9:00 PM (EST) for server upgrades.
