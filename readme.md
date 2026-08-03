@@ -13,6 +13,10 @@ This website is meant to be primarily updated and maintained by officers and sys
 - **/static** - Contains all media (presentations & images).
 - **/hugo.toml** - The primary config file. Defines things like the global header and footer.
 
+### Testing
+
+You can install hugo on your system to test changes to the website before deploying with ```hugo server -D```
+
 ## Things to do
 
 - Setup an RSS feed
