@@ -12,7 +12,7 @@ Whether you are new to Linux or already running your own servers, our club is a 
 **Open to:** UMBC students, faculty, staff, alumni, and allies of the community.
 {{< /callout >}}
 
-## Quick actions
+## Learn More
 
 {{< cards >}}
   {{< card link="https://sh.lug.umbc.edu/discord" title="Join our Discord" icon="discord" >}}
