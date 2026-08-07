@@ -14,11 +14,47 @@ Whether you are new to Linux or already running your own servers, our club is a 
 
 ## Learn More
 
-{{< cards >}}
-  {{< card link="https://sh.lug.umbc.edu/discord" title="Join our Discord" icon="discord" >}}
-  {{< card link="https://mirror.lug.umbc.edu" title="Visit the mirror" icon="download" >}}
-  {{< card link="/about/" title="Read about the club" icon="book-open" >}}
-  {{< card link="/events/" title="Learn about our events" icon="calendar" >}}
-  {{< card link="/blog/" title="See the latest club updates" icon="bell" >}}
-  {{< card link="/mirror/" title="Read about our mirror project" icon="book-open" >}}
-{{< /cards >}}
+{{< hextra/feature-grid cols="2" >}}
+  {{< hextra/feature-card
+    title="Join our Discord"
+    subtitle="Chat with members, ask questions, and hear about events before they happen."
+    icon="discord"
+    link="https://sh.lug.umbc.edu/discord"
+    style="--card-accent: #5865F2;"
+  >}}
+  {{< hextra/feature-card
+    title="Visit the mirror"
+    subtitle="Browse our package mirror for Linux software and distributions."
+    icon="download"
+    link="https://mirror.lug.umbc.edu"
+    style="--card-accent: #fdb515;"
+  >}}
+  {{< hextra/feature-card
+    title="Read about the club"
+    subtitle="Learn about our mission, community, and what we do throughout the year."
+    icon="book-open"
+    link="/about/"
+    style="--card-accent: #da2128;"
+  >}}
+  {{< hextra/feature-card
+    title="Explore our events"
+    subtitle="See upcoming talks, workshops, and community gatherings."
+    icon="calendar"
+    link="/events/"
+    style="--card-accent: #007176;"
+  >}}
+  {{< hextra/feature-card
+    title="See the latest updates"
+    subtitle="Follow club announcements, meeting recaps, and project news."
+    icon="bell"
+    link="/blog/"
+    style="--card-accent: #636466;"
+  >}}
+  {{< hextra/feature-card
+    title="Mirror project"
+    subtitle="Find out how our campus mirror helps the community distribute packages faster."
+    icon="book-open"
+    link="/mirror/"
+    style="--card-accent: #c7c8ca;"
+  >}}
+{{< /hextra/feature-grid >}}

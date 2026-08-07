@@ -1,0 +1,198 @@
+/* 
+ * Custom CSS for LUG Site
+ * Optimized and organized for better maintainability
+ */
+
+/* =========================================
+   1. Variables & Theming
+   ========================================= */
+:root {
+  /* UMBC Brand Colors */
+  --umbc-black: #000000;
+  --umbc-gold: #fdb515;
+  --umbc-gold-lighter: #ffb700;
+  --umbc-red: #da2128;
+  --umbc-teal: #007176;
+  --umbc-brown: #a67a05;
+  --umbc-gray: #636466;
+  --umbc-light-gray: #c7c8ca;
+
+  /* Theme Colors (Light) */
+  --hextra-page-bg: #f5f1ea;
+  --hextra-surface: rgba(245, 241, 234, 0.74);
+  --hextra-surface-strong: rgba(245, 241, 234, 0.9);
+  --hextra-border: rgba(99, 100, 102, 0.18);
+  --hextra-text: #1b1b1b;
+  --hextra-muted: #374151;
+
+  /* Primary HSL Base */
+  --primary-hue: 204;
+  --primary-saturation: 100%;
+  --primary-lightness: 28%;
+
+  /* Contextual Theming (Light) */
+  --link-color: hsl(var(--primary-hue), var(--primary-saturation), var(--primary-lightness));
+  --link-hover: var(--umbc-teal);
+  --card-bg: linear-gradient(135deg, var(--hextra-surface-strong), rgba(255, 255, 255, 0.72));
+}
+
+html.dark {
+  /* Theme Colors (Dark) */
+  --hextra-page-bg: #111827;
+  --hextra-surface: rgba(17, 24, 39, 0.78);
+  --hextra-surface-strong: rgba(15, 23, 42, 0.94);
+  --hextra-border: rgba(199, 200, 202, 0.18);
+  --hextra-text: #f5f5f4;
+  --hextra-muted: #e5e7eb;
+
+  /* Contextual Theming (Dark) */
+  --link-color: var(--umbc-gold);
+  --link-hover: var(--umbc-gold-lighter);
+  --card-bg: linear-gradient(135deg, rgba(17, 24, 39, 0.82), rgba(15, 23, 42, 0.96));
+}
+
+/* =========================================
+   2. Base Styles
+   ========================================= */
+html {
+  background: var(--hextra-page-bg);
+}
+
+body {
+  background: transparent;
+  color: var(--hextra-text);
+}
+
+/* =========================================
+   3. Typography & Links
+   ========================================= */
+.content {
+  max-width: 100%;
+}
+
+.content h2 {
+  border-bottom-color: var(--hextra-border);
+}
+
+/* Centralized Link Styling */
+.content a,
+.content :where(a):not(:where([class~=not-prose],[class~=not-prose] *)),
+a {
+  color: var(--link-color) !important;
+  transition: color 0.2s ease-in-out;
+}
+
+.content a:hover,
+.content :where(a):not(:where([class~=not-prose],[class~=not-prose] *)):hover,
+a:hover {
+  color: var(--link-hover) !important;
+}
+
+/* =========================================
+   4. Components
+   ========================================= */
+
+/* --- Table of Contents (TOC) --- */
+.hextra-toc {
+  color: var(--hextra-text);
+}
+
+.hextra-toc .hextra-scrollbar {
+  background: transparent;
+}
+
+/* TOC active link */
+.hextra-toc a.hextra-toc-active,
+.hextra-toc a[style*="color"] {
+  color: var(--link-color) !important;
+  background-color: transparent !important;
+}
+
+/* TOC text colors */
+.hextra-toc .hx\:text-gray-500,
+.hextra-toc .hx\:dark\:text-gray-400,
+.hextra-toc .hx\:text-gray-500 a,
+.hextra-toc .hx\:dark\:text-gray-400 a,
+.hextra-toc a {
+  color: var(--hextra-muted) !important;
+  transition: color 0.2s ease-in-out;
+}
+
+.hextra-toc .hx\:hover\:text-gray-900,
+.hextra-toc .hx\:dark\:hover\:text-gray-100,
+.hextra-toc a:hover,
+.hextra-toc button:hover {
+  color: var(--hextra-text) !important;
+}
+
+/* TOC Utility Overrides (Targeting compiled Tailwind classes) */
+.hextra-toc .hx\:bg-white,
+.hextra-toc .hx\:dark\:bg-dark,
+.hextra-toc .hx\:dark\:bg-dark\/50 {
+  background: var(--hextra-surface) !important;
+}
+
+.hextra-toc .hx\:border-gray-200,
+.hextra-toc .hx\:dark\:border-neutral-800 {
+  border-color: var(--hextra-border) !important;
+}
+
+.hextra-toc .hx\:shadow-\[0_-12px_16px_white\],
+.hextra-toc .hx\:dark\:shadow-\[0_-12px_16px_\#111\] {
+  box-shadow: none !important;
+}
+
+/* --- Back to Top Button --- */
+#backToTop {
+  color: var(--hextra-muted) !important;
+  transition: color 0.2s ease-in-out;
+}
+
+#backToTop:hover {
+  color: var(--hextra-text) !important;
+}
+
+#backToTop svg {
+  border-color: var(--hextra-border) !important;
+  color: inherit !important;
+}
+
+/* --- Feature Cards --- */
+.hextra-feature-grid {
+  margin-top: 1.75rem;
+}
+
+.hextra-feature-card {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--hextra-border);
+  background: var(--card-bg);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.hextra-feature-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 6px;
+  background: var(--card-accent, var(--link-color));
+  border-radius: 1.25rem 0 0 1.25rem;
+}
+
+.hextra-feature-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--card-accent, var(--link-color));
+  box-shadow: 0 18px 32px rgba(0, 0, 0, 0.12);
+}
+
+.hextra-feature-card h3,
+.hextra-feature-card p {
+  color: var(--hextra-text);
+}
+
+.hextra-feature-card svg,
+.hextra-feature-card .icon,
+.hextra-feature-card .hx\:pr-2 {
+  color: var(--card-accent, var(--umbc-teal));
+}
