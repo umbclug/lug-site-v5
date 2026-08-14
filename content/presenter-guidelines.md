@@ -24,14 +24,14 @@ Please email the following details to **lug@umbc.edu**:
 
 ## 2. Presentation Guidelines
 
-* **Slide Design:** Keep text minimal on each slide—use slides to support your speaking points, not as a script. Focus on high contrast and large, readable fonts.
-* **Time Commitment:** Plan for roughly **30–45 minutes** of presentation, followed by **10–15 minutes** for Q&A (unless arranged otherwise).
+* **Slide Design:** Keep text minimal on each slide, use slides to support your speaking points, not as a script. Focus on high contrast and large, readable fonts.
+* **Time Commitment:** Plan for roughly **30–45 minutes** of presentation, followed by **10–15 minutes** for Q&A (unless arranged otherwise). Members expect meetings to last around an hour.
 * **Live Demos:** We strongly suggest that you test and rehearse any live demonstrations beforehand.
 * **Terminal & Code Displays:** If displaying a terminal or code editor, use a large font size and a high-contrast color scheme suitable for a classroom environment.
 
 ## 3. Room & AV Setup
 
-* **Connectors:** LUG meetings aren't always held in the same classroom so the Room/AV setup may vary. Typically we expect HDMI to be available. If you can't interface with this please reach out to an officer and we can provide an adapter. Alternatively, if you aren't doing any demonstrations you may request the slideshow be ran on one of our systems.
+* **Connectors:** LUG meetings aren't always held in the same classroom so the Room/AV setup may vary but typically HDMI is available. If you can't interface with that please reach out to an officer and we can provide an adapter to USB-C. Alternatively, if you aren't doing any demonstrations you may request the slideshow be ran on an officer's laptop.
 * **Screen Resolution:** Slides formatted in **16:9 widescreen** work best with the displays / projectors commonly found in classrooms.
 
 ## 4. Resources
