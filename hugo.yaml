@@ -54,7 +54,7 @@ menu:
       params:
         type: "search"
     - name: "Discord"
-      url: "https://sh.lug.umbc.edu/discord/"
+      url: "https://sh.lug.umbc.edu/discord"
       weight: 11
       params:
         icon: "discord"
