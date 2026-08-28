@@ -19,9 +19,9 @@ We always welcome new presenters, contact us if there is something you would to 
 
 - **President:** [Alex Merryman](mailto:amerrym1@umbc.edu)
 - **Vice President:** [Danielle Esposito](mailto:desposi1@umbc.edu)
-- **Treasurer:** [Hamza Asher Alneam](mailto:hnasher1@umbc.edu)
+- **Treasurer:** [Hamza Nasher Alneam](mailto:hnasher1@umbc.edu)
 - **Secretary:** [Milk Patel](mailto:mpatel32@umbc.edu)
-- **Advisor:** [Dr. Maya Larson](mailto:mlarson1@umbc.edu)
+- **Advisor:** [Max Breitmeyer](mailto:mb17@umbc.edu)
 
 The best way to reach out to us is by emailing [lug@umbc.edu](mailto:lug@umbc.edu).  
 Feel free to contact any of the officers above with questions, ideas, or suggestions!
