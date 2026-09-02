@@ -8,7 +8,7 @@ A friendly, student-led community where anyone interested in Linux, open-source 
 Whether you are completely new to Linux or already running your own servers, LUG is a place to build skills, work on cool infrastructure, and connect with fellow tech enthusiasts.
 
 {{< callout type="info" >}}
-**Meetings:** Currently on summer break! Join our Discord below for summer project chatter and Fall schedule announcements.  
+**Meetings:** Every Wednesday at 7:15 PM in Sondheim 409
 **Open to:** UMBC students, faculty, staff, alumni, and open-source enthusiasts of all skill levels.
 {{< /callout >}}
 
