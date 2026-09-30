@@ -35,6 +35,10 @@ menu:
     - name: "Posts"
       url: "/blog/"
       weight: 3.5
+    - name: "InstallFest"
+      url: "/installfest/"
+      weight: 1
+      parent: "more"
     - name: "Monitoring"
       url: "https://uptime.blahaj.uno/status/lug"
       weight: 2
@@ -81,6 +85,6 @@ params:
     toc:
       displayTags: true
   banner:
-    key: 'mirror-announcement'
+    key: 'installfest-2026'
     message: |
-      Check out our <a href="https://mirror.lug.umbc.edu">Package Mirror</a>!
+      Looking for the InstallFest guide? **[Get started with Linux](/installfest/)**

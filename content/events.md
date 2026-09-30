@@ -14,7 +14,7 @@ Starting in Spring 2025, we have begun an annual collaboration with one of our f
 
 InstallFest is our yearly outreach event in which we setup in the commons to spread the word about Linux and FOSS, providing people with resources, advice, and USB drives to start their Linux journey with.
 
-Find more resources from InstallFest 2025 [here](/installfest/)
+Find more resources from InstallFest 2026 [here](/installfest/)
 
 ![InstallFest 2025](/images/InstallFest.jpg)
 

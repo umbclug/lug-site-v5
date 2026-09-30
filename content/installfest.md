@@ -1,7 +1,11 @@
 ---
-title: InstallFest 2025 Get started with Linux
+title: InstallFest 2026 Get started with Linux
 ---
 Welcome to InstallFest! We're glad you're here. This guide will walk you through the basics of Linux and how to get the most out of the USB drive you received from the UMBC Linux Users Group (LUG).
+
+{{< callout type="info" >}}
+  **Which drive do I have?** The drives handed out at InstallFest 2026 include **Tails**, **Linux Mint (Cinnamon)**, **Debian Live (XFCE)**, **Fedora KDE**, and **CachyOS**. If you received an older drive, the lineup may differ, for example, **Debian Net Install** instead of Debian Live, and no CachyOS. Everything in this guide still applies; just match the systems below to what you see in your drive's Ventoy menu.
+{{< /callout >}}
 
 ## Disclaimer
 
@@ -9,30 +13,32 @@ The UMBC Linux Users Group (LUG) and all affiliated individuals and organization
 
 ## What Is Linux?
 
-**Linux** is a free and open-source operating system. It's known for being secure, highly customizable, and is used everywhere—from personal computers and web servers to supercomputers.
+**Linux** is a free and open-source operating system. It's known for being secure, highly customizable, and is used everywhere; from personal computers and web servers to supercomputers.
 
 ### Why Choose Linux?
 
-* **Privacy:** Use it to protect your data and stay anonymous online. Try **Tails OS** for secure, no-trace browsing.
+* **Privacy:** Protect your data and stay anonymous online. Try **Tails** for secure, no-trace browsing.
 * **Revive Old Hardware:** Linux runs efficiently on older computers that struggle with newer versions of Windows.
-* **Stay Supported:** With Windows 10 reaching its end of life on October 14, 2025, Linux is a great way to keep your device secure and up to date.
-* **Flexibility:** Customize everything from the look and feel to the software and entire desktop environment.
+* **Stay Supported:** Windows 10 reached its end of life on October 14, 2025, and many machines can't officially run Windows 11. Linux keeps those computers secure, current, and out of the landfill.
+* **Play Games:** Thanks to tools like Proton and Steam, thousands of Windows games run on Linux - come check out our **LAN Night**
+* **Flexibility:** Customize everything, from the look and feel to the software and the entire desktop environment.
 
 
 ## Your USB Drive: Powered by Ventoy
 
-Your USB drive is loaded with **Ventoy**, a tool that lets you choose which operating system to boot into. Think of it as a multi-OS drive.
+Your USB drive is loaded with **Ventoy**, a tool that lets you choose which operating system to boot into. Think of it as a multi-OS drive: start the computer, pick a distro from the menu, and you're in.
 
-Here are the systems currently on your drive:
+Here's what's on the 2026 drives:
 
-* **Fedora KDE Plasma (Live):** A modern, polished desktop experience.
-    ![](https://www.fedoraproject.org/_nuxt/background_plasma.XBHSz62f.png)
-* **Linux Mint Cinnamon (Live):** A popular choice for beginners, with a familiar, user-friendly interface.
-    ![](https://linuxmint.com/web/img/screenshots/c1.jpg)
-* **Debian (Net Install):** A powerful, minimal option for advanced users who want full control over their installation.
-    ![](https://screenshots.debian.net/screenshot/gnome/25135)
-* **Tails (Live):** A privacy-focused system designed to help you browse the web anonymously.
-    ![](https://upload.wikimedia.org/wikipedia/commons/9/9a/Tails_screenshot_6.x.png)
+| Distribution | What it is | Great for |
+| --- | --- | --- |
+| **Tails** | A privacy-focused live system that routes your traffic through the Tor network and leaves no trace on the host machine. | Anonymous browsing |
+| **Linux Mint (Cinnamon)** | A beginner-friendly desktop with a familiar, Windows-like layout and a large, well-documented community. | First-time Linux users |
+| **Debian Live (XFCE)** | Rock-solid and famously stable, with a lightweight XFCE desktop that stays fast on older hardware. A good starting point for advanced users who want full control. | Minimal, dependable setups |
+| **Fedora KDE** | A modern, polished KDE Plasma desktop with recent software from the Fedora project. | A sleek, up-to-date desktop |
+| **CachyOS** | An Arch-based distro tuned for performance, with a custom kernel and CPU-optimized packages. New software arrives fast. | Gaming and power users |
+
+All of these run as **live** systems, so you can try them out without installing anything.
 
 ### Want to Try Another Linux Distro?
 
@@ -40,8 +46,8 @@ You can add other Linux "distros" (versions) to your drive.
 
 1.  Find a distro you like on [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) and download its ISO file.
 2.  Insert the USB drive into your computer.
-3.  Find the USB partition that contains the ISO files. It will be about 7.5GB in size.
-4.  The drive is at capacity, so you'll need to delete an existing distro (Mint and Fedora take up the most space) to make room.
+3.  Open the USB drive and find the partition that contains the ISO files. If the drive shows two partitions, it's the large one.
+4.  The drive is usually close to full, so you'll likely need to delete an existing ISO to make room. The full desktop distros (Mint, Fedora, and CachyOS) tend to be the largest.
 5.  Copy your new ISO file to the same location.
 
 ## How to Boot from the USB Drive
@@ -104,6 +110,7 @@ The **Linux Mint** installer makes this process straightforward:
 * [**Fedora** Install Guide](https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/)
 * [**Debian** Installation Guide](https://www.debian.org/releases/stable/amd64/)
 * [**Tails** Install Guide](https://tails.net/install/linux/index.en.html)
+* [**CachyOS** Wiki & Installation Guide](https://wiki.cachyos.org/)
 * [**Ventoy** User Guide](https://www.ventoy.net/en/doc_start.html)
 
 
@@ -112,5 +119,5 @@ The **Linux Mint** installer makes this process straightforward:
 Join the **UMBC Linux Users Group (LUG)**!
 
 * **Weekly Meetings:** Wednesdays at 7:15 PM
-* **Join our Discord:** [https://discord.com/invite/jgMqPtK2mg](https://discord.com/invite/jgMqPtK2mg)
-
+* **Join our Discord:** [https://sh.lug.umbc.edu/discord](https://sh.lug.umbc.edu/discord)
+* 
